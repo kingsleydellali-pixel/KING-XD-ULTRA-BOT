@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: KING-XD-ULTRA-BOT
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: OWNER_NUMBER
+        sync: false
+      - key: BOT_NAME
+        sync: false
+      - key: PREFIX
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: CHANNEL_LINK
+        sync: false
