@@ -59,8 +59,8 @@ Local Installation
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/whatsapp-bot.git
-   cd whatsapp-bot
+   git clone https://github.com/kingsleydellali-pixel/KING-XD-ULTRA-BOT.git
+   cd KING-XD-ULTRA-BOT
    ```
 2. Install dependencies
    ```bash
@@ -70,11 +70,9 @@ Local Installation
    · Copy .env.example to .env and fill in your details:
      ```
      OWNER_NUMBER=1234567890@s.whatsapp.net
-     BOT_NAME=MyAwesomeBot
      PREFIX=.
      OPENAI_API_KEY=sk-...      # optional
-     GEMINI_API_KEY=AI...       # optional
-     CHANNEL_LINK=https://whatsapp.com/channel/your_channel_id  # optional
+     GEMINI_API_KEY=AI...       # optional 
      ```
 4. Run the bot
    ```bash
