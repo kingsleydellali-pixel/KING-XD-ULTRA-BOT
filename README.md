@@ -1,9 +1,9 @@
 # KING-XD-ULTRA-BOT 🤖
 A professional, high-performance WhatsApp bot built with Baileys and Node.js. Packed with a powerful downloader suite, comprehensive group management, robust protection tools, and a modern web dashboard for easy linking. Designed for speed, efficiency, and reliability.
 
-https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen
-https://img.shields.io/badge/license-MIT-blue
-https://render.com/images/deploy-to-render-button.svg
+[https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen]
+[https://img.shields.io/badge/license-MIT-blue]
+[https://render.com/images/deploy-to-render-button.svg]
 
 ---
 
